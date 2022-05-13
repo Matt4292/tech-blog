@@ -1,0 +1,38 @@
+#headerId {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1%;
+  width: 100%;
+  background-color: #383838;
+  color: #383838
+}
+
+.navbar-item {
+  color: whitesmoke
+}
+
+.nav-list {
+background-color: none;
+  display: flex;
+}
+
+#navbarSupportedContent {
+  background-color: #383838;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #383838;
+  color: whitesmoke;
+}
+
+.footer div a {
+  color: whitesmoke;
+}
+
+.card {
+  margin: 1%
+}
