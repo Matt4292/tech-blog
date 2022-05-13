@@ -15,6 +15,7 @@ You will have to have Node installed to run this program. In addition to Node yo
 Once everything is installed run the command "node seeds/index.js" in the terminal to seed the database. Then you can start the server by entering "node server.js" in the terminal.
 
 ## Link 
+You can view the deployed application at [https://mj-tech-blog.herokuapp.com](https://mj-tech-blog.herokuapp.com)
 
 ## Questions
 If you have questions about the code you can reach out to me through GitHub at [Matt4292](https://github.com/Matt4292)
